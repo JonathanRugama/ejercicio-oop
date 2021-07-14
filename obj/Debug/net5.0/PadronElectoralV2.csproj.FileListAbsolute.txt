@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\bin\Debug\net5.0\PadronElectoralV2.exe
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\bin\Debug\net5.0\PadronElectoralV2.deps.json
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\bin\Debug\net5.0\PadronElectoralV2.runtimeconfig.json
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\bin\Debug\net5.0\PadronElectoralV2.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\bin\Debug\net5.0\PadronElectoralV2.dll
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\bin\Debug\net5.0\ref\PadronElectoralV2.dll
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\bin\Debug\net5.0\PadronElectoralV2.pdb
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\obj\Debug\net5.0\PadronElectoralV2.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\obj\Debug\net5.0\PadronElectoralV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\obj\Debug\net5.0\PadronElectoralV2.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\obj\Debug\net5.0\PadronElectoralV2.AssemblyInfo.cs
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\obj\Debug\net5.0\PadronElectoralV2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\obj\Debug\net5.0\PadronElectoralV2.dll
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\obj\Debug\net5.0\ref\PadronElectoralV2.dll
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\obj\Debug\net5.0\PadronElectoralV2.pdb
+C:\Users\Dell\source\repos\PadronElectoralV2\PadronElectoralV2\obj\Debug\net5.0\PadronElectoralV2.genruntimeconfig.cache
