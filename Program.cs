@@ -16,7 +16,7 @@ namespace PadronElectoralV2
 			
 			Loader theLoader = new Loader();
 			theLoader.LoadFile();
-
+                        // Implementar interface en Loader, por el tipo de accion
 			Operations theOperations = new Operations(theLoader.TheElectoralRoll);
 
 			
