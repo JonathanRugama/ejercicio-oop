@@ -19,13 +19,14 @@ namespace PadronElectoralV2
 
 			Operations theOperations = new Operations(theLoader.TheElectoralRoll);
 
-			theOperations.PrintMenu();
+			
 
 			Boolean onOff = true;
 			int selectedOption;
 			
 			while (onOff)
 			{
+				theOperations.PrintMenu();
 				selectedOption = Console.Read();
 				switch (selectedOption)
 				{
