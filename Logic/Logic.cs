@@ -10,6 +10,8 @@ namespace PadronElectoralV2.Logic
 {
 	class Operations
 	{
+
+      // Implementar una Interfaz para esta clase --- Ilogic 
 		public Operations(ElectoralRoll theElectoralRoll)
 		{
 			TheElectoralRoll = theElectoralRoll;
