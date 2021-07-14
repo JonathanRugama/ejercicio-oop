@@ -20,12 +20,6 @@ namespace PadronElectoral.Model
 		}
 
 
-		public void PrintTheElectoralRoll ()
-		{
-			foreach (Person thePersonToPrint in TheElectoralRoll)
-			{
-				Console.WriteLine(thePersonToPrint);
-			}
-		}
+		
 	}
 }
