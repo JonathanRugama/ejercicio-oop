@@ -28,6 +28,7 @@ namespace PadronElectoralV2
 			{
 				theOperations.PrintMenu();
 				selectedOption = Console.Read();
+				// Usar un dictionary -- Investigar que es
 				switch (selectedOption)
 				{
 					case 1:
